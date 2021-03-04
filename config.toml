@@ -1,0 +1,24 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "K.T.H."
+theme = "smol"
+copyright = "Kha Huynh"
+
+# Parameters
+[params]
+    subtitle = "Read a girl who dates books?"
+    dateFmt = "01-02-2006"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 2
