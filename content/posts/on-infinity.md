@@ -1,5 +1,5 @@
 ---
-title: "On Infinity"
+title: "On infinity"
 date: 2015-09-25
 draft: false
 summary: >
