@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: content/posts/memoir.md
+  checksum: 6b7f06bf9bccc57c8d02d610d282c0414b40affa2d21ca106b399a34d78694cb
+- filename: public/posts/memoir/index.html
+  checksum: a77435dd13e3b1b8784c718914ac029f7903f49fef249e647c1d03544d13b01b
