@@ -9,4 +9,6 @@ Boston, MA grown and raised in apartmental climates. Some GMOs. A few frills. Bi
 
 Currently residing: Los Angeles, CA.
 
+This site does not use Javascript or analytics tracking.
+
 {{< figure src="../images/about-profile.jpg" alt="Headshot" width="40%" height="40%" >}}

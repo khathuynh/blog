@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "K.T.H."
 theme = "smol"
 copyright = "Kha Huynh"
+paginate = 4
 
 # Parameters
 [params]

@@ -1,5 +1,9 @@
 fileignoreconfig:
-- filename: content/posts/memoir.md
-  checksum: 6b7f06bf9bccc57c8d02d610d282c0414b40affa2d21ca106b399a34d78694cb
-- filename: public/posts/memoir/index.html
-  checksum: a77435dd13e3b1b8784c718914ac029f7903f49fef249e647c1d03544d13b01b
+- filename: content/posts/im-a-stranger-here.md
+  checksum: 50271cfaea8f2a30ee11785ab978fceca8c46ba422b01a50db0d73bff76f7136
+- filename: public/posts/im-a-stranger-here/index.html
+  checksum: 4a77f63210af47097ff2f706879118138200512d6a4e7e92ace8efdb72cef0e4
+- filename: content/posts/college-major.md
+  checksum: d5a8edac7f859bbc411a59a4b1b9ffd44701ec49b8a1e3ee5a29f6412e4a6a89
+- filename: public/posts/college-major/index.html
+  checksum: ffb552218ce7e50f8781d75b6226899c01585a6ff24cec873271225470eefff3
