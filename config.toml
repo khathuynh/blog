@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://khatnaps.net/"
 languageCode = "en-us"
 title = "K.T.H."
 theme = "smol"
@@ -22,3 +22,16 @@ copyright = "Kha Huynh"
         name = "Tags"
         url = "/tags/"
         weight = 2
+
+  [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 3
+
+    [[menu.main]]
+           identifier = "reading-list"
+           name = "Reading list"
+           url = "/reading-list/"
+           weight = 4
+
