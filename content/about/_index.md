@@ -5,7 +5,7 @@ draft: false
  
 ---
 
-Boston, MA grown and raised. Some GMOs. A few frills. Big belief in mushrooms and sheer inner power, as lines of multimodal thought shape my mind.
+Boston, MA grown and raised. Some GMOs. A few frills. Big belief in mushrooms, wondrous depths, human culture, multimodal thought, sheer sheer inner power.
 
 Currently residing: Los Angeles, CA.
 
