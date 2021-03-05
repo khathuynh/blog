@@ -9,6 +9,4 @@ Boston, MA grown and raised. Some GMOs. A few frills. Big belief in mushrooms, w
 
 Currently residing: Los Angeles, CA.
 
-Credit for [site tagline](https://hey-adora.tumblr.com/post/169039127437/yinx-read-a-girl-who-dates-books).
-
 {{< figure src="../images/about-profile.jpg" alt="Headshot" width="40%" height="40%" >}}

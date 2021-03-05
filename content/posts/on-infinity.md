@@ -3,16 +3,16 @@ title: "On infinity"
 date: 2015-09-25
 draft: false
 summary: >
-  I have been fascinated with the idea of ‘small’ and ‘big’ infinities for awhile. in my freshman year seminar on grasping the intersection between physics, astronomy, philosophy, and religion, i went to musing a bit on the subject.
-  
-  
+  I have been fascinated with the idea of ‘small’ and ‘big’ infinities for awhile.
+
+
   [Section 1](/posts/on-infinity#section-1)
 tags: ["tag 1", "tag 2"]
  
 ---
 
 
-I have been fascinated with the idea of ‘small’ and ‘big’ infinities for awhile. in my freshman year seminar on grasping the intersection between physics, astronomy, philosophy, and religion, i went to musing a bit on the subject.
+*I have been fascinated with the idea of ‘small’ and ‘big’ infinities for awhile. in my freshman year seminar filtering the intersection of physics, astronomy, philosophy, and religion, i went to musing a bit on the subject..*
 
 Some people are lucky enough to have a singular, wholly defining experience with the idea of spatial infinity. They describe a stand-alone night of stargazing, a life-changing explanation by a teacher, or a wide-eyed gaze under the glowing shell of a planetarium. As wondrous as it sounds, I am not one of those people. I cannot recall the first time I truly realized the expanse of the universe and the grandiose of the objects within it, although slowly overtime, I have come to accept those notions as fact. Instead, I have grappled with the concept of infinity through a different, and in my opinion, more fathomable perspective—a mathematical one.
 
