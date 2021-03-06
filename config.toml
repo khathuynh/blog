@@ -9,6 +9,7 @@ paginate = 4
 [params]
     subtitle = "Read a girl who dates books? ☃️"
     dateFmt = "01-02-2006"
+    favicon = "/static/favicon.ico"
 
 # Header
 [menu]
@@ -30,9 +31,15 @@ paginate = 4
         url = "/about/"
         weight = 3
 
-    [[menu.main]]
-           identifier = "reading-list"
-           name = "Reading list"
-           url = "/reading-list/"
-           weight = 4
+  [[menu.main]]
+        identifier = "reading-list"
+        name = "Reading list"
+        url = "/reading-list/"
+        weight = 4
+
+  [[menu.main]]
+        identifier = "goodies"
+        name = "◐"
+        url = "/goodies/"
+        weight = 5
 
