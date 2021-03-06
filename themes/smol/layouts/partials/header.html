@@ -3,14 +3,12 @@
 	==💜<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>💜==<br>
 	{{ strings.Repeat ( .Site.Title | len | add 8 ) "=" }}
 	<div style="float: right;">{{ .Site.Params.subtitle }}</div><br>
-	<p>
 	<nav>
-			<a class='header'href="/"><b>Home</b></a>.
+			<a class='bars'href="/"><b>Home</b></a>.
 			{{ with .Site.Menus.main }}
 			{{ range . }}
-			<a class='header' href="{{ .URL | relURL }}"><b>{{ .Name }}</b></a>.
+			<a class='bars' href="{{ .URL | relURL }}"><b>{{ .Name }}</b></a>.
 			{{ end }}
 	</nav>
-	</p>
 	{{ end }}
 </header>

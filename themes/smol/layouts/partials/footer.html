@@ -1,9 +1,9 @@
 <footer>
 
-	<span>&copy; {{ now.Year }} <a class='footer' href="{{ .Site.BaseURL }}"><b>{{ if .Site.Copyright }}{{ .Site.Copyright }}{{ else }}{{ .Site.Title }}{{ end }}</b></a>.
+	<span>&copy; {{ now.Year }} <a class='bars' href="{{ .Site.BaseURL }}"><b>{{ if .Site.Copyright }}{{ .Site.Copyright }}{{ else }}{{ .Site.Title }}{{ end }}</b></a>.
 	{{- range .Site.Menus.footer }}
 	<a href="{{ .URL }}"><b>{{ .Name }}</b></a>.
         {{- end }}
 	</span>
-	<span><a class='footer' href="https://hey-adora.tumblr.com/post/169039127437/yinx-read-a-girl-who-dates-books"><b>Tagline credit.</b></a></span>
+	<span><a class='bars' href="https://hey-adora.tumblr.com/post/169039127437/yinx-read-a-girl-who-dates-books"><b>Tagline credit.</b></a></span>
 </footer>
