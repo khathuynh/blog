@@ -6,7 +6,7 @@
 	{{ . }}</a>
 	{{ end }}
 	<div>
-		{{ .Summary }}
+		<div class="summary">{{ .Summary }}</div>
 		{{ if .Truncated }}
 			<a href="{{ .Permalink }}">Read more...</a>
 		{{ end }}
