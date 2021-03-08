@@ -3,11 +3,11 @@ title: "College major"
 date: 2018-03-12
 draft: false
 summary: >
-  One slice of theory & methods in the american studies field. Reflection, senior thesis proposal on public transport and environmental racism at year 3 in the major.
+  One slice of theory & methods in the american studies field. Reflection, senior thesis proposal on public transport and environmental racism in my backyard.
   
   
   [I. My view of the field](/posts/college-major#reflection) [II. Senior thesis design](/posts/college-major#thesis-design) [III. Goals + significance](/posts/college-major#goals-and-significance)
-tags: []
+tags: ["liberal arts", "public transport", "tech", "marginal"]
 ---
 
 *In winter of 2018 I took a course on theory & methods in american studies, in which the final assignment was to write a reflection on my time thus far as an american studies major and begin to design the proposal for my senior thesis project. I did drop the AMST major. However I got the amazing opportunity to intern with the MBTA in the summer between my junior and senior year (the focus of my proposed research), positioning me within the intersections of tech, transportation, and social impact, as I entered the post-college world.*

@@ -2,11 +2,13 @@
 title: "Postscript: on the californian road"
 date: 2017-03-08
 draft: false
-summary: The last essay i wrote for an off campus study program, called Visions of California, reflecting on 3 months of living and learning on the californian road.
-tags: []
+summary: After 3 months on the californian road at 19.
+tags: ["marginal", "american dream", "california"]
 ---
 
-*The last of 5 essays  i wrote for an off campus study program entitled visions of california, reflecting on 3 months of living and learning on the californian road*
+*The last of 5 essays i wrote for an off campus study program entitled visions of california, reflecting on 3 months of living and learning on the californian road*
+
+---
 
 There is a saying for travel addicts that goes something like, “every place you visit changes you in some shape or form.” I have a theory that I developed in eighth grade which literalizes that sentiment. As follows, see if you buy it: on a very chemical level, every place you visit becomes a physical part of you given that the molecules of the environment and of the self interact, blurring the lines between the place and placemaker. Having always felt a profound connection to place, I find the theory proving true again and again. I love maps because I can visualize this network of places I’ve been and associated memories, impacts, and visions in context of one another; I can see my whole life, in chemical and color, unravelling in an instance.
 

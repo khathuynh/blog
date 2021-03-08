@@ -7,7 +7,7 @@ summary: >
   
   
   [I. Beachwave](/posts/glitch-pop#beachwave) [II. Miles and miles](/posts/glitch-pop#miles-and-miles) [III. Is it by mistake or design](/posts/glitch-pop#mistake-or-design)
-tags: []
+tags: ["tech", "california"]
 ---
 
 Learning about how to make electronic music can be a daunting task, especially when industry equipment is so freakin expensive and where are you supposed to learn how to make edm? luckily at carleton i had the privilege to take a few music and media studies classes, where ive gotten to mess around with software and equipment i otherwise wouldn’t have access to. here are a few of my learning experiments so far! in middle school i used to go home & throw shit onto the piano roll in fl studio free trial that i would renew over and over and so im really happy that ive been able to revive my interest in music prdouction in college.

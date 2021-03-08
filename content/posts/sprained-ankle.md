@@ -9,7 +9,7 @@ summary: >
   
 
   [I. Coping mechanisms](/posts/they-say-the-best-time-to-write#stress) [II. Stab at a poem](/posts/they-say-the-best-time-to-write#poem) [III. Slow run](/posts/they-say-the-best-time-to-write#slow-run)
-tags: ["running","mental wellness", "poem", "writing"]
+tags: ["mental wellness", "poem", "writing"]
 ---
 *Installment #3 of nose boop collection. Hard years-- flashbacks and forwards of high school letters and cross country runs. So fragile my teammates carried me from twisted branch and sunken stone,
     as I melted to jelly.*
