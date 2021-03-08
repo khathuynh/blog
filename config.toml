@@ -42,3 +42,11 @@ paginate = 4
         name = "◐"
         url = "/goodies/"
         weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"

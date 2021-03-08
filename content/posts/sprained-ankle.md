@@ -1,17 +1,18 @@
 ---
-title: "They say the best time to write is early morning"
+title: "Walk home with a sprained ankle"
 date: 2014-10-14
 draft: false
 summary: >
-  Collection of high school letters and cross country runs. 
-  So fragile my teammates carried me from twisted branch and sunken stone back to school,
+  Hard years-- flashbacks and forwards of high school letters, cross country runs. 
+  So fragile my teammates carried me from twisted branch and sunken stone,
    as I melted to jelly.
   
 
   [I. Coping mechanisms](/posts/they-say-the-best-time-to-write#stress) [II. Stab at a poem](/posts/they-say-the-best-time-to-write#poem) [III. Slow run](/posts/they-say-the-best-time-to-write#slow-run)
-tags: ["running","poem", "writing"]
+tags: ["running","mental wellness", "poem", "writing"]
 ---
-*Collection of high school letters.*
+*Installment #3 of nose boop collection. Hard years-- flashbacks and forwards of high school letters and cross country runs. So fragile my teammates carried me from twisted branch and sunken stone,
+    as I melted to jelly.*
 
 ---
 ## How do you deal with stress? {#stress}
