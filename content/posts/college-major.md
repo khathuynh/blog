@@ -7,7 +7,7 @@ summary: >
   
   
   [I. My view of the field](/posts/college-major#reflection) [II. Senior thesis design](/posts/college-major#thesis-design) [III. Goals + significance](/posts/college-major#goals-and-significance)
-tags: ["liberal arts", "public transport", "tech", "marginal"]
+tags: ["liberal arts", "public transport", "tech", "marginality"]
 ---
 
 *In winter of 2018 I took a course on theory & methods in american studies, in which the final assignment was to write a reflection on my time thus far as an american studies major and begin to design the proposal for my senior thesis project. I did drop the AMST major. However I got the amazing opportunity to intern with the MBTA in the summer between my junior and senior year (the focus of my proposed research), positioning me within the intersections of tech, transportation, and social impact, as I entered the post-college world.*

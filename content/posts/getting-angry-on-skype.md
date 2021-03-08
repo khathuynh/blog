@@ -5,7 +5,7 @@ draft: false
 summary: >
   Words flying over skype to my best friend james in anger and disgust with
   American high school, white privilege and whitened beauty standards. deliciously naive.
-tags: ["poem","third culture kid", "marginal"]
+tags: ["poem","third culture kid", "marginality"]
 ---
 
 *Words flying over skype to my best friend james in anger and disgust with

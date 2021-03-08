@@ -7,7 +7,7 @@ summary: >
   
   
   [I. Abstract](posts/memoir#abstract) [II. Semicircular canal](posts/memoir#semicircular-canal) [III. Arms as wings](posts/memoir#arms-as-wings) [IV. Mind's eye](posts/memoir#minds-eye) [V. Esophagus](posts/memoir#esophagus) [VI. Cotton mouth](posts/memoir#cotton-mouth) [VII. Heart](posts/memoir#heart)
-tags: ["american dream", "marginal", "mental wellness", "science", "somebodys daughter"]
+tags: ["american dream", "marginality", "mental wellness", "science", "somebodys daughter"]
 ---
 ## {#abstract}
 *In fall 2018 i took a class on writing memoir, where i thought about memory, adolescence, and the relationships that daughters and mothers can grow to share.* 

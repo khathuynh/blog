@@ -3,7 +3,7 @@ title: "Postscript: on the californian road"
 date: 2017-03-08
 draft: false
 summary: After 3 months on the californian road at 19.
-tags: ["marginal", "american dream", "california"]
+tags: ["marginality", "american dream", "california"]
 ---
 
 *The last of 5 essays i wrote for an off campus study program entitled visions of california, reflecting on 3 months of living and learning on the californian road*

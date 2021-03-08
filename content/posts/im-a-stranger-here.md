@@ -7,7 +7,7 @@ summary: >
   
   
   [I. Spongebrain mixed media](/posts/im-a-stranger-here#sponge-brain) [II. Viet-American adolescence](/posts/im-a-stranger-here#viet-am-adolescence) [i. estrangement](/posts/im-a-stranger-here#elementary) [ii. terminal uniqueness](/posts/im-a-stranger-here#junior-high) [iii. intercultural shifting](/posts/im-a-stranger-here#high-school)
-tags: ["third culture kid", "marginal", "mixed media"]
+tags: ["third culture kid", "marginality", "mixed media"]
 ---
 
 *My last term at carleton, winter 2019, i took a course called “I’m a Stranger Here Myself.” in short it’s a course for kids stuck between cultures and something more. i thought a lot about the challenges and opportunities of vietnamese american identity and hyphenated identities on the whole, centered on a deliberation of my relationship with the vietnamese language– how can it be that i understand spoken word perfectly, but cant read write or speak for myself ( is it something in my brain or is it the way i was raised). third culturalism, rising to prominence in the u.s., provokes us to ask ourselves these questions. here is my third culture autobiographical.*

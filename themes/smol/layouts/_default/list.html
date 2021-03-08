@@ -9,20 +9,36 @@
 		{{ end }}
 		
 		<ul>
-		    {{ range (.Paginator 50).Pages }}
-		    <li>
-		        <div class="post-title">
-				{{ if eq $listtitle "Posts" }}
-					{{ .Date.Format "01-02-2006" }} <a href="{{ .RelPermalink }}">{{.Title }}</a>
-				{{ else if eq $listtitle "Tags" }}
-				<a href="{{ .RelPermalink }}">{{.Title }}</a>
-				{{ else }}
-					<h3>{{ .Date.Format "01-02-2006" }} <a href="{{ .RelPermalink }}"><b>{{.Title }}</b></a></h3>
-					<p>{{ .Summary }}</p>
+
+			{{ if eq $listtitle "Tags" }}
+				{{ range (.Paginator 30).Pages }}
+					<li>
+						<div class="post-title">
+							<a href="{{ .RelPermalink }}">{{.Title }}</a>
+						</div>
+					</li>
 				{{ end }}
-		        </div>
-		    </li>
-		    {{ end }}
+
+			{{ else if eq $listtitle "Posts" }}
+				{{ range (.Paginator 50).Pages }}
+				<li>
+					<div class="post-title">
+						{{ .Date.Format "01-02-2006" }} <a href="{{ .RelPermalink }}">{{.Title }}</a>
+					</div>
+				</li>
+				{{ end }}
+
+			{{ else }}
+				{{ range (.Paginator).Pages }}
+				<li>
+					<div class="post-title">
+						<h3>{{ .Date.Format "01-02-2006" }} <a href="{{ .RelPermalink }}"><b>{{.Title }}</b></a></h3>
+						<p>{{ .Summary }}</p>
+					</div>
+				</li>
+				{{ end }}
+			{{end }}
+
 		</ul>
 		{{ partial "pagination.html" . }}
 	</main>
