@@ -32,16 +32,22 @@ paginate = 4
         weight = 3
 
   [[menu.main]]
-        identifier = "reading-list"
-        name = "Reading list"
-        url = "/reading-list/"
-        weight = 4
+       identifier = "Nose boop"
+       name = "Big sale"
+       url = "/series/nose-boop/"
+       weight = 4
 
   [[menu.main]]
-        identifier = "goodies"
-        name = "◐"
-        url = "/goodies/"
-        weight = 5
+       identifier = "reading-list"
+       name = "Reads"
+       url = "/reading-list/"
+       weight = 5
+
+  [[menu.main]]
+       identifier = "goodies"
+       name = "◐"
+       url = "/goodies/"
+        weight = 6
 
 [markup]
   [markup.goldmark]
@@ -50,3 +56,4 @@ paginate = 4
 
 [taxonomies]
   tag = "tags"
+  series = "series"

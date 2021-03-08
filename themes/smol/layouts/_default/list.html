@@ -19,6 +19,15 @@
 					</li>
 				{{ end }}
 
+			{{ else if eq $listtitle "Series" }}
+				{{ range (.Paginator 30).Pages }}
+					<li>
+						<div class="post-title">
+							<a href="{{ .RelPermalink }}">{{.Title }}</a>
+						</div>
+					</li>
+				{{ end }}
+
 			{{ else if eq $listtitle "Posts" }}
 				{{ range (.Paginator 50).Pages }}
 				<li>

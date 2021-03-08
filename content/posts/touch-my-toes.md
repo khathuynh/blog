@@ -8,6 +8,7 @@ summary: >
   
   [I. Tendrils](/posts/touch-my-toes#tendrils) [II. Flimsy grocery bags](/posts/touch-my-toes#groceries) [III. Violated by capitalism](/posts/touch-my-toes#violated-by-capitalism) [IV. Safe in my own skin](/posts/touch-my-toes#safe-in-my-own-skin)
 tags: ["nostalgia", "tech", "somebodys daughter", "smol talk", "faith"]
+series: ["Nose boop"]
 ---
 
 *Part of installment #5 of nose boop collection. In fierce belief and defense of pop culture. The whimsy of tattoos, hot girl summer, small talk which is hot, smart, and tamely grunge.*

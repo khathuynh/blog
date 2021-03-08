@@ -8,6 +8,7 @@ summary: >
   
   [I. To swim with a seal](/posts/high-tide#to-swim-with-a-seal) [II. We are giant livers](/posts/high-tide#giant-livers)
 tags: ["mental wellness", "faith", "tech", "writing", "california"]
+series: ["Nose boop"]
 ---
 *Installment #1 of the nose boop collection. Tangential thoughts down the central coast of California: solo trip before my last year of college. I try tinder. Scrolling and sobbing. I find a dying seal.*
 
