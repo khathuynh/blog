@@ -8,7 +8,7 @@ summary: >
 
   [I. Vlog](/posts/a-luddite-snapchats#video)
   [II. Stats](/posts/a-luddite-snapchats#stats)
-tags: ["mixed media", "california"]
+tags: ["american dream","mixed media"]
 ---
 ## {#video}
 From january to march 2017, i decided to document my learnings in california through snapchat story, which i then later saved to ‘my memories’ in the app. i didnt have snapchat before this program and getting used to recording something almost every day was mental floss. in the end, i’m glad i tried it out, as now ill have a reel of footage to look back on some of the greatest months of my life so far!

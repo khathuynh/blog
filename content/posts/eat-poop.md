@@ -7,7 +7,7 @@ summary: >
 tags: ["ego", "faith", "science", "writing"]
 series: ["Nose boop"]
 ---
-*Part of installment #2 of nose boop collection. Is the world a work of art? Would you rather eat poop that tastes like food or food that tastes like poop? Is nihilism a happy accident?
+*Adapted from installment #2 of nose boop collection. Is the world a work of art? Would you rather eat poop that tastes like food or food that tastes like poop? Is nihilism a happy accident?
 A romanticist muses on ethical consumerism.*
 
 

@@ -11,7 +11,7 @@ tags: ["nostalgia", "tech", "somebodys daughter", "smol talk", "faith"]
 series: ["Nose boop"]
 ---
 
-*Part of installment #5 of nose boop collection. In fierce belief and defense of pop culture. The whimsy of tattoos, hot girl summer, small talk which is hot, smart, and tamely grunge.*
+*Adapted from installment #5 of nose boop collection. In fierce belief and defense of pop culture. The whimsy of tattoos, hot girl summer, small talk which is hot, smart, and tamely grunge.*
 
 
 ---
@@ -271,11 +271,14 @@ and 9 years a part i said im 19 i dont want to be rude and the lines get blurry 
 sometimes i believe there is a way out
 
 
-Hot girl summer for me is not abt hookups its abt feeling good and safe and smiling
+Hot girl summer for me is not abt femme fatale its abt feeling good and safe and smiling
 all the way up to my ears, maybe going home with someone new, mostly trading out that
 need to go home by myself drunk off something strong as a practice for the worst case
 scenario, to know what i can handle, the twisted reality of how ive come to like this
 practice because it makes me feel one step ahead of the most malicious actors.
 My hot girl summer screams ventura california, dave and busters in san jose and the song sex money feelings
 die coming on without a single soul cramping my space, albeit in a crappy club my mom
-used to go to when she was younger, albeit knowing i am finally safe in my own skin.
+used to go to when she was younger, knowing i am finally..
+ 
+ 
+SAFE IN MY OWN SKIN, if only for a moment.

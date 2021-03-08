@@ -10,7 +10,7 @@ summary: >
 tags: ["third culture kid","marginality", "writing"]
 series: ["Nose boop"]
 ---
-*Part of installment #5 of nose boop collection. Duo the owl hasn't seen you in awhile... do you still want to learn vietnamese? Take a 5 minute lesson now! High context vs low context languages. Maybe the world doesn't so selfishly belong to me to desctibe.*
+*Adapted from installment #5 of nose boop collection. Duo the owl hasn't seen you in awhile... do you still want to learn vietnamese? Take a 5 minute lesson now! High context vs low context languages. Maybe the world doesn't so selfishly belong to me to desctibe.*
 
 {{< figure src="../../images/duo-is-crying.png" alt="Duo the owl is crying" width="80%" height="80%" >}}
 

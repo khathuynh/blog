@@ -8,7 +8,7 @@ summary: >
    as I melted to jelly.
   
 
-  [I. Coping mechanisms](/posts/they-say-the-best-time-to-write#stress) [II. Stab at a poem](/posts/they-say-the-best-time-to-write#poem) [III. Slow run](/posts/they-say-the-best-time-to-write#slow-run)
+  [I. Coping mechanisms](/posts/sprained-ankle#stress) [II. Stab at a poem](/posts/sprained-ankle#poem) [III. Slow run](/posts/sprained-ankle#slow-run)
 tags: ["mental wellness", "poem", "writing"]
 series: ["Nose boop"]
 ---
