@@ -1,5 +1,5 @@
 ---
-title: "Part-time summer at the bakery"
+title: "Part-time barista for the summer"
 date: 2019-09-04
 draft: false
 summary: >
