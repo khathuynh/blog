@@ -3,14 +3,14 @@ title: "Duo is crying!"
 date: 2020-05-20
 draft: false
 summary: >
-  Duo the owl hasn't seen you in awhile... do you still want to learn vietnamese? Take a 5 minute lesson now! Maybe the world doesn't so selfishly belong to you to desctibe.
+  Duo the owl hasn't seen you in awhile... do you still want to learn vietnamese? Take a 5 minute lesson now! Or maybe the world doesn't so selfishly belong to you to describe.
 
 
   [I. Let's be symbiotic](/posts/duo-is-crying#lets-be-symbiotic) [II. Unfogging a window](/posts/duo-is-crying#unfogging-a-window) [III. Prime directive](/posts/duo-is-crying#prime-directive)
 tags: ["third culture kid","marginality", "writing"]
 series: ["Nose boop"]
 ---
-*Adapted from installment #5 of nose boop collection. Duo the owl hasn't seen you in awhile... do you still want to learn vietnamese? Take a 5 minute lesson now! High context vs low context languages. Maybe the world doesn't so selfishly belong to me to desctibe.*
+*Adapted from installment #5 of nose boop collection. Duo the owl hasn't seen you in awhile... do you still want to learn vietnamese? Take a 5 minute lesson now! High context vs low context languages. Maybe the world doesn't so selfishly belong to me to describe.*
 
 {{< figure src="../../images/duo-is-crying.png" alt="Duo the owl is crying" width="80%" height="80%" >}}
 
