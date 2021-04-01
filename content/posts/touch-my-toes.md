@@ -21,11 +21,9 @@ series: ["Nose boop"]
 
 The tattoo artist ends a sentence on his kids. I hang onto words like crossing lines
 in optical illusions. “You’re sitting very well,” which in tattoo speak might mean I’m
-not flinching. I glance downward, rose tendrils in chemical. There are lapses among
-the drilling taking shape and inside those valleys, a lantern floods the path.
-The answer I am searching for is written deep within the folds of the canyonside. My
-psyche lately has felt like a desert which overnight, every night, dews with frost. I
-celebrate earth in the unveiling of roses, the icosahedron, and the happy molecule
+not flinching. I glance downward, rose tendrils in chemical, and there are lapses among
+the drilling taking shape where deep in those valleys, my thoughts caress the wrinkled folds of the canyonside. 
+Like a desert under frost and dew: Celebrate earth in the unveiling of roses, the icosahedron, and the happy molecule
 with a bad rap (serotonin) on my ankle.
 
 

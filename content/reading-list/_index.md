@@ -8,8 +8,6 @@ draft: false
  
 ### Memoir, creative loneliness
 
-`My Own Devices`: Essays From the Road on Music, Science, and Senseless Love by Dessa
-
 `The Lonely City`: Adventures in the Art of Being Alone by Olivia Laing
 
 `Infinite City`: A San Francisco Atlas by Rebecca Solnit
